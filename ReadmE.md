@@ -35,11 +35,7 @@ The model demonstrates a strong ability to follow market trends. As seen in the 
 
 ---
 
-## 💻 Technical Standards
-For developers integrating this logic into C++ backend systems, the following standard is maintained:
-> ```cpp
-> using namespace std;
-> ```
+
 
 ## 📝 How to Use
 1. Clone this repository.
@@ -48,3 +44,4 @@ For developers integrating this logic into C++ backend systems, the following st
 4. Run all cells to see the live data fetch and prediction results.
 
 ---
+
